@@ -1,0 +1,13 @@
+{
+  "name": "name of extension",
+  "description": "description",
+  "version": "1.0.0",
+  "author": "root",
+  "lang": "en",
+  "icons": {
+    "16": "http://yourdomain/photo.jpg",
+    "48": "http://yourdomain/photo.jpg",
+    "128":"http://yourdomain/photo.jpg"
+  },
+  "homepage": "https://github.com/iofod/iofod-extensions"
+}
