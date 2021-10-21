@@ -1,0 +1,13 @@
+{
+  "name": "Custom Icon Set",
+  "description": "Custom Icon Set",
+  "version": "1.0.0",
+  "author": "root",
+  "lang": "en",
+  "icons": {
+    "16": "https://static.iofod.com/assets/common/addicon.png",
+    "48": "https://static.iofod.com/assets/common/addicon.png",
+    "128":"https://static.iofod.com/assets/common/addicon.png"
+  },
+  "homepage": "https://github.com/iofod/iofod-extensions"
+}
