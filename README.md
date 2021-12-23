@@ -2,6 +2,10 @@
 
 A curated list of awesome iofod extensions and resources.
 
+## editor
+
+Editor means the editor of iofod, the official website is [www.iofod.com](https://www.iofod.com) and the editor url is [fx.iofod.com](https://fx.iofod.com)
+
 ## extension demo
 
 ### [dev-server](https://github.com/iofod/iofod-extensions/tree/main/demo/dev-server)
