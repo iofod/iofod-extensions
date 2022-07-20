@@ -1,5 +1,7 @@
 # iofod-extensions
 
+English | [简体中文](./README_CN.md)
+
 This project contains the official iofod extensions and resources.
 
 ## Tutorials
