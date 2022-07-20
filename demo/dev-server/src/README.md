@@ -1,3 +1,0 @@
-# extension
-
-Hello World!

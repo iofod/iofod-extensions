@@ -1,0 +1,13 @@
+{
+  "name": "IFstruct Synchronizer",
+  "description": "Listen for IFstruct changes and synchronize them to the target server",
+  "version": "lastest",
+  "author": "Orbit",
+  "lang": "en",
+  "icons": {
+    "16": "https://static.iofod.com/assets/common/sync.png",
+    "48": "https://static.iofod.com/assets/common/sync.png",
+    "128": "https://static.iofod.com/assets/common/sync.png"
+  },
+  "homepage": "https://github.com/iofod/iofod-extensions"
+}

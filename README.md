@@ -1,13 +1,25 @@
 # iofod-extensions
 
-A curated list of awesome iofod extensions and resources.
+This project contains the official iofod extensions and resources.
 
-## extension demo
+## Tutorials
 
-### [dev-server](https://github.com/iofod/iofod-extensions/tree/main/demo/dev-server)
+- [Using Extensions](https://doc.iofod.com/#/en/3/24)
+- [Extension Development Instructions](https://doc.iofod.com/#/en/9/01)
+- [iofod SDK](https://github.com/iofod/iofod-sdk)
 
-dev-server provides the minimal template needed to develop an iofod extension, and developers can either develop directly from this template or customize on top of it.
+## Quick start
 
-### [add-icon](https://github.com/iofod/iofod-extensions/tree/main/demo/add-icon)
+The [IFstruct](https://github.com/iofod/IFstruct-parser) command line tool integrates iofod extension development templates, which can be quickly created with the following command.
 
-The add-icon extension demonstrates advanced usage and integration of extensions such as interacting with the iofod editor, adding components, and customizing content for components, and provides a reference for developers who want to master advanced features.
+```bash
+iofod create --temp extension --dir MyExtensionProject
+```
+
+## Use cases
+
+- [Custom Icon Set](https://github.com/iofod/iofod-extensions/tree/main/demo/add-icon): Extend the iofod icon to add a custom icon.
+- [UI Library Development Tool](https://github.com/iofod/iofod-extensions/tree/main/demo/extension-helper): Essential tools for the development of UI library extensions.
+- [Material UI](https://github.com/iofod/iofod-extensions/tree/main/demo/Material-UI): Use the Material UI component library in iofod.
+- [SVG2Icon](https://github.com/iofod/iofod-extensions/tree/main/demo/svg2icon): Convert SVG files to iofod's icon component.
+- [IFstruct synchronization](https://github.com/iofod/iofod-extensions/tree/main/demo/sync): Listen for IFstruct changes and synchronize the changes to the target server.

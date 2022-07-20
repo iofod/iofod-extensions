@@ -1,0 +1,13 @@
+{
+  "name": "SVG2Icon",
+  "description": "Convert SVG files to iofod's icon component",
+  "version": "lastest",
+  "author": "Orbit",
+  "lang": "en",
+  "icons": {
+    "16": "https://static.iofod.com/assets/common/svg2icon.png",
+    "48": "https://static.iofod.com/assets/common/svg2icon.png",
+    "128":"https://static.iofod.com/assets/common/svg2icon.png"
+  },
+  "homepage": "https://github.com/iofod/iofod-extensions"
+}

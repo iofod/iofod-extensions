@@ -1,0 +1,13 @@
+{
+  "name": "Material UI",
+  "description": "Use the Material UI component library in iofod",
+  "version": "lastest",
+  "author": "Orbit",
+  "lang": "en",
+  "icons": {
+    "16": "https://static.iofod.com/assets/common/mdui.png",
+    "48": "https://static.iofod.com/assets/common/mdui.png",
+    "128":"https://static.iofod.com/assets/common/mdui.png"
+  },
+  "homepage": "https://github.com/iofod/iofod-extensions"
+}

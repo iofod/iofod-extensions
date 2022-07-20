@@ -1,0 +1,13 @@
+{
+  "name": "UI Library Development Tool",
+  "description": "Essential tools for the development of UI library extensions",
+  "version": "lastest",
+  "author": "Orbit",
+  "lang": "en",
+  "icons": {
+    "16": "https://static.iofod.com/assets/iofod/extension-helper.png",
+    "48": "https://static.iofod.com/assets/iofod/extension-helper.png",
+    "128": "https://static.iofod.com/assets/iofod/extension-helper.png"
+  },
+  "homepage": "https://github.com/iofod/iofod-extensions"
+}

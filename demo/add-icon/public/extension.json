@@ -1,8 +1,8 @@
 {
   "name": "Custom Icon Set",
-  "description": "Custom Icon Set",
-  "version": "1.0.0",
-  "author": "root",
+  "description": "Add your custom icon to IFstruct",
+  "version": "lastest",
+  "author": "Orbit",
   "lang": "en",
   "icons": {
     "16": "https://static.iofod.com/assets/common/addicon.png",
