@@ -1,0 +1,13 @@
+{
+  "name": "Color UI",
+  "description": "Color UI for IFstruct",
+  "version": "lastest",
+  "author": "Orbit",
+  "lang": "en",
+  "icons": {
+    "16": "https://static.iofod.com/assets/common/colorUI.png",
+    "48": "https://static.iofod.com/assets/common/colorUI.png",
+    "128":"https://static.iofod.com/assets/common/colorUI.png"
+  },
+  "homepage": "https://github.com/iofod/iofod-extensions"
+}
