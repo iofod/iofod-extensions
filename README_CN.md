@@ -24,3 +24,4 @@ iofod create --temp extension --dir MyExtensionProject
 - [SVG2Icon](https://github.com/iofod/iofod-extensions/tree/main/demo/svg2icon): 将 SVG 图形转换成iofod图标组件。
 - [IFstruct 同步](https://github.com/iofod/iofod-extensions/tree/main/demo/sync): 监听 IFstruct 修改，并将变化同步到目标服务器上。
 - [Color UI](https://github.com/iofod/iofod-extensions/tree/main/demo/color-ui): 在 iofod 里使用 Color UI组件库。
+- [Soft UI](https://github.com/iofod/iofod-extensions/tree/main/demo/soft-ui): 在 iofod 里使用 Soft UI组件库。

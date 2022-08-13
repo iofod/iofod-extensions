@@ -1,0 +1,13 @@
+{
+  "name": "Soft UI",
+  "description": "Soft UI for IFstruct",
+  "version": "lastest",
+  "author": "iofod",
+  "lang": "en",
+  "icons": {
+    "16": "https://static.iofod.com/assets/common/softui.png",
+    "48": "https://static.iofod.com/assets/common/softui.png",
+    "128":"https://static.iofod.com/assets/common/softui.png"
+  },
+  "homepage": "https://github.com/iofod/iofod-extensions"
+}

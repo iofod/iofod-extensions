@@ -26,3 +26,4 @@ iofod create --temp extension --dir MyExtensionProject
 - [SVG2Icon](https://github.com/iofod/iofod-extensions/tree/main/demo/svg2icon): Convert SVG files to iofod's icon component.
 - [IFstruct synchronization](https://github.com/iofod/iofod-extensions/tree/main/demo/sync): Listen for IFstruct changes and synchronize the changes to the target server.
 - [Color UI](https://github.com/iofod/iofod-extensions/tree/main/demo/color-ui): Use the Color UI component library in iofod.
+- [Soft UI](https://github.com/iofod/iofod-extensions/tree/main/demo/soft-ui): Use the Soft UI component library in iofod.
