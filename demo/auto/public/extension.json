@@ -1,0 +1,13 @@
+{
+  "name": "Automated Test",
+  "description": "A must-have tool to support automated testing of external projects",
+  "version": "lastest",
+  "author": "iofod",
+  "lang": "en",
+  "icons": {
+    "16": "https://static.iofod.com/assets/common/auto.png",
+    "48": "https://static.iofod.com/assets/common/auto.png",
+    "128":"https://static.iofod.com/assets/common/auto.png"
+  },
+  "homepage": "https://github.com/iofod/iofod-extensions"
+}

@@ -27,3 +27,4 @@ iofod create --temp extension --dir MyExtensionProject
 - [IFstruct synchronization](https://github.com/iofod/iofod-extensions/tree/main/demo/sync): Listen for IFstruct changes and synchronize the changes to the target server.
 - [Color UI](https://github.com/iofod/iofod-extensions/tree/main/demo/color-ui): Use the Color UI component library in iofod.
 - [Soft UI](https://github.com/iofod/iofod-extensions/tree/main/demo/soft-ui): Use the Soft UI component library in iofod.
+- [Automated Test](https://github.com/iofod/iofod-extensions/tree/main/demo/auto): A must-have tool to support automated testing of external projects.
