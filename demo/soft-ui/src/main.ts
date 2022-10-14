@@ -286,19 +286,23 @@ export async function main() {
             options: [
               {
                 value: 145,
-                label: 'TopLeft',
+                label: 'TL',
+                tip: 'Top Left'
               },
               {
                 value: 225,
-                label: 'TopRight',
+                label: 'TR',
+                tip: 'TopRight'
               },
               {
                 value: 315,
-                label: 'BottomRight',
+                label: 'BR',
+                tip: 'Bottom Right'
               },
               {
                 value: 45,
-                label: 'BottomLeft',
+                label: 'BL',
+                tip: 'Bottom Left'
               },
             ],
           },
@@ -372,7 +376,7 @@ export async function main() {
   })
 }
 
-export function calcStyle(e: any) {
+export function calcStyle() {
   let style: any = getStyle($)
 
   PLUS.setCurrentStyle(style)
@@ -393,5 +397,5 @@ export function calcStyle(e: any) {
   )
 }
 
-export function dragend(e: any) {
+export function dragend() {
 }
