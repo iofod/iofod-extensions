@@ -1,0 +1,13 @@
+{
+  "name": "Responsive Layout Tool",
+  "description": "Use the Responsive Layout Tool in iofod",
+  "version": "lastest",
+  "author": "iofod",
+  "lang": "en",
+  "icons": {
+    "16": "https://static.iofod.com/assets/common/responsive-layout.png",
+    "48": "https://static.iofod.com/assets/common/responsive-layout.png",
+    "128":"https://static.iofod.com/assets/common/responsive-layout.png"
+  },
+  "homepage": "https://github.com/iofod/iofod-extensions"
+}
